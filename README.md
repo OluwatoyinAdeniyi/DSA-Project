@@ -11,5 +11,5 @@ This is where we include some basic lines of code or queries or even some of the
 Eg
 ```
 SELECT A,B,C
-Where A > B
+WHERE A > B
 ```
